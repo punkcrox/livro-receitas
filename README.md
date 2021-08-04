@@ -1,4 +1,4 @@
-# Livro de recitas :man_cook: 
+# Livro de receitas :man_cook: 
 
 
 
