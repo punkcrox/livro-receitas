@@ -1,12 +1,10 @@
-# Livro de receitas :man_cook: 
+# Livro de receitas 👨‍🍳
 
 
 
-Olá! Bem vindo ao meu livro de receitas :clap:
+Olá! Bem vindo ao meu livro de receitas 👏
 
 - Strogonoff de frango
--  Pavê
-
-
-
+- Pavê
+- Bolo cenoura
 
