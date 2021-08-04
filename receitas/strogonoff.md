@@ -6,9 +6,9 @@
 
 - creme de leite
 
-  - [x] resya
-  - [ ]  e
-  - [ ] rt
+  - [x] sal
+  - [ ] pimenta
+  - [ ] coloral
 
   ​
 
